@@ -20,5 +20,7 @@ This project provides tools for 3D visualization of directional well trajectorie
 
 ## 🖼️ Sample Visualizations
 ![Single Well Plot](fig_build_hold.png)
+![Single Well Plot](cross.png)
+
 
 
